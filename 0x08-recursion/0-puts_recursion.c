@@ -14,4 +14,4 @@ if (*s)
 else
 {
 	_putchar('\n');
-}}
+}
